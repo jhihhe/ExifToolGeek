@@ -3,6 +3,12 @@ ExifGeek // 元数据传输器
 
 [English](README_en.md) | [中文](README.md)
 
+![Platform](https://img.shields.io/badge/Platform-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Framework](https://img.shields.io/badge/Framework-PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Copyright](https://img.shields.io/badge/Copyright-@JhihHe-blueviolet?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 ![界面](https://raw.githubusercontent.com/jhihhe/ExifToolGeek/main/界面.png)
 
 ExifGeek 是一个基于 [ExifTool](https://github.com/exiftool/exiftool) 的 macOS 桌面工具，专注于一个高频工作流：
