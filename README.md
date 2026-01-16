@@ -9,6 +9,8 @@ ExifGeek // 元数据传输器
 ![Copyright](https://img.shields.io/badge/Copyright-@JhihHe-blueviolet?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+> 📥 **下载 macOS 应用**: [Releases](https://github.com/jhihhe/ExifToolGeek/releases)
+
 ![界面](https://raw.githubusercontent.com/jhihhe/ExifToolGeek/main/界面.png)
 
 ExifGeek 是一个基于 [ExifTool](https://github.com/exiftool/exiftool) 的 macOS 桌面工具，专注于一个高频工作流：
