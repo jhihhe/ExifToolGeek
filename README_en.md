@@ -1,6 +1,10 @@
 ExifGeek // Metadata Transporter
 ================================
 
+[English](README_en.md) | [中文](README.md)
+
+![Screenshot](https://raw.githubusercontent.com/jhihhe/ExifToolGeek/main/界面.png)
+
 ExifGeek is a macOS desktop application built on top of the excellent [ExifTool](https://github.com/exiftool/exiftool). It focuses on one core workflow:
 
 - Extract full EXIF/metadata from a **source image**

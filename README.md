@@ -1,7 +1,9 @@
 ExifGeek // 元数据传输器
 ========================
 
-![界面](界面.png)
+[English](README_en.md) | [中文](README.md)
+
+![界面](https://raw.githubusercontent.com/jhihhe/ExifToolGeek/main/界面.png)
 
 ExifGeek 是一个基于 [ExifTool](https://github.com/exiftool/exiftool) 的 macOS 桌面工具，专注于一个高频工作流：
 
