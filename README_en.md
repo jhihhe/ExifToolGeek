@@ -5,6 +5,7 @@ ExifGeek // Metadata Transporter
 
 ![Platform](https://img.shields.io/badge/Platform-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 ![Framework](https://img.shields.io/badge/Framework-PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Copyright](https://img.shields.io/badge/Copyright-@JhihHe-blueviolet?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
@@ -235,4 +236,3 @@ Contact
 -------
 
 For feedback or feature requests, please open an issue on the GitHub repository or contact **@JhihHe**.
-

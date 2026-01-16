@@ -5,6 +5,7 @@ ExifGeek // 元数据传输器
 
 ![Platform](https://img.shields.io/badge/Platform-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 ![Framework](https://img.shields.io/badge/Framework-PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Copyright](https://img.shields.io/badge/Copyright-@JhihHe-blueviolet?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
@@ -240,4 +241,3 @@ License / 许可
 ----
 
 如需反馈或功能建议，可以在 GitHub 仓库提交 Issue，或直接联系 **@JhihHe**。
-
